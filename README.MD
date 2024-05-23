@@ -11,7 +11,7 @@
 
 ## install `TAILWIND` using cdn 
 
-### Enter this cdn code inside the `<head>...</html>` tag in the html and start writing the TAILWIND code
+### Enter this cdn code inside the `<head>...</head>` tag in the html and start writing the TAILWIND code
 
 ```html
 <script src="https://cdn.tailwindcss.com"></script>
@@ -57,5 +57,18 @@
 ```
 
 ### connect these 2 links and write code in bootstrap
+
+---
+
+# <img align="center" src="https://static-00.iconduck.com/assets.00/bulma-icon-704x1024-ogprv5be.png" alt="Tailwind" title="TAILWIND" width="45"> BULMA.IO
+
+
+## install `BULMA` using cdn 
+
+### Enter this cdn code inside the `<head>...</head>` tag in the html and start writing the BULMA code
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
+```
 
 ---
